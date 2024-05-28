@@ -1,3 +1,5 @@
+## A basic Next.js tutorial with all the basic features except metadata and SEO. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
